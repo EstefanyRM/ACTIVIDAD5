@@ -1,0 +1,8 @@
+body{
+    background-color: rgb(228, 231, 27);
+}
+
+.card-body{
+    background-color: rgb(199, 103, 39);
+    text-align: center;
+}
